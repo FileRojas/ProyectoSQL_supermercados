@@ -14,7 +14,7 @@ Este proyecto consiste en la creación y manipulación de una base de datos fict
 - **Empleados**: Información sobre los empleados de las sucursales de cada cadena.
 
 
-# para realizar las consultas me hice algunas preguntas:
+## para realizar las consultas me hice algunas preguntas:
 
 ¿Produtos mas caros? ¿Empleados mas antiguos? ¿Ofertas activas?
 
@@ -24,4 +24,4 @@ Para mirar el analisis con consultas intermedias - avanzadas: https://github.com
 
 y por ultimo te dejo un archivo PNG con el diagrama entidad-relación: https://github.com/FileRojas/ProyectoSQL_supermercados/blob/master/Diagrama_supermercados.png
 
-# ¡Muchas gracias!
+### ¡Muchas gracias!
