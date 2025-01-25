@@ -24,4 +24,6 @@ Para mirar el analisis con consultas intermedias - avanzadas: https://github.com
 
 y por ultimo te dejo un archivo PNG con el diagrama entidad-relación: https://github.com/FileRojas/ProyectoSQL_supermercados/blob/master/Diagrama_supermercados.png
 
+Herramienta utilizada: MySQL Workbench
+
 ### ¡Muchas gracias!
