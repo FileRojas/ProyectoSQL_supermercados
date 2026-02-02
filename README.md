@@ -26,4 +26,6 @@ y por ultimo te dejo un archivo PNG con el diagrama entidad-relación: https://g
 
 Herramienta utilizada: MySQL Workbench.
 
-### ¡Muchas gracias!
+👤 Autor: Jose Rojas
+
+📊 Perfil: Analista de Datos / Business Intelligence
